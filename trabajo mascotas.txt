@@ -1,0 +1,3 @@
+capa de presentacion---> controlador y vista
+capa de negocio ---> gestorDeMascotas(lo que se encarga de añadir mascotas, hay que hacerlo en memoria) y la carpeta modelos ---->>>> mascotas y dueños
+capa de datos ----> interfaz del repo y el repo k se usa

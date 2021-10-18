@@ -1,0 +1,16 @@
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\TiendaMascotas.csproj.AssemblyReference.cache
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\TiendaMascotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\TiendaMascotas.AssemblyInfoInputs.cache
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\TiendaMascotas.AssemblyInfo.cs
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\TiendaMascotas.csproj.CoreCompileInputs.cache
+C:\Users\Andoi\Desktop\TiendaMascotas\bin\Debug\net5.0\TiendaMascotas.exe
+C:\Users\Andoi\Desktop\TiendaMascotas\bin\Debug\net5.0\TiendaMascotas.deps.json
+C:\Users\Andoi\Desktop\TiendaMascotas\bin\Debug\net5.0\TiendaMascotas.runtimeconfig.json
+C:\Users\Andoi\Desktop\TiendaMascotas\bin\Debug\net5.0\TiendaMascotas.runtimeconfig.dev.json
+C:\Users\Andoi\Desktop\TiendaMascotas\bin\Debug\net5.0\TiendaMascotas.dll
+C:\Users\Andoi\Desktop\TiendaMascotas\bin\Debug\net5.0\ref\TiendaMascotas.dll
+C:\Users\Andoi\Desktop\TiendaMascotas\bin\Debug\net5.0\TiendaMascotas.pdb
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\TiendaMascotas.dll
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\ref\TiendaMascotas.dll
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\TiendaMascotas.pdb
+C:\Users\Andoi\Desktop\TiendaMascotas\obj\Debug\net5.0\TiendaMascotas.genruntimeconfig.cache
